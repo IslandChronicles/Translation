@@ -1,0 +1,4 @@
+{
+  "Command Blocked": "Command '{command}' is blocked for non owners.",
+  "Command Blocked Warning": "User {player} ran '{command}' but we blocked it!"
+}

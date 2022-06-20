@@ -1,0 +1,9 @@
+{
+  "Score.Rank": "Rank: {0}",
+  "Score.Kills": "Kills: {0}",
+  "Score.Name": "Rank",
+  "Score.Limit": "Rank Limit : {0}",
+  "Round.Limit": "Round : {0} / {1}",
+  "UI.RankLimit": "Rank Limit",
+  "UI.DowngradeWeapon": "Downgrade Weapon"
+}

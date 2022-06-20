@@ -1,0 +1,12 @@
+{
+  "NoSirenForName": "No siren was found for the given name (using {0} instead)",
+  "CouldNotAttach": "Could not attach '{0}'",
+  "Attached": "Attached siren '{0}'",
+  "AttachedGlobal": "Attached siren '{0}' to all existing cars",
+  "Detached": "Detached siren",
+  "DetachedGlobal": "Detached all existing sirens",
+  "NotAVehicle": "This entity is not a (supported) vehicle",
+  "Sirens": "Available sirens: {0}",
+  "PlayersOnly": "Command '{0}' can only be used by a player",
+  "NotSupported": "The siren '{0}' has no configuration for '{1}'"
+}

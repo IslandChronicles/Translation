@@ -1,0 +1,20 @@
+{
+  "WhiteListAdded": "new whitelist has been added to {0}!",
+  "BlackListAdded": "new blacklist has been added to {0}!",
+  "PlayerAddedBlackList": "new player with id {0} has been added in {1} blacklist!",
+  "PlayerAddedWhiteList": "new player with id {0} has been added in {1} Whitelist!",
+  "NoSteamID": " The value {0} is not a steamID",
+  "NoPerm": "Unkown command: {0}",
+  "NewPermission": "new permission with name {0} has been added!",
+  "RevokeAll": "All the players with the permission {0} has been revoked!",
+  "UnBlackListPlayer": "new player with id {0} has been removed from {1} blacklist!",
+  "UnWhiteListPlayer": "All the players with the permission {0} has been revoked!",
+  "RemoveBlackList": "new blacklist has been removed from {0}!",
+  "RemoveWhiteList": "new whitelist has been removed from {0}!",
+  "AlreadyBlacklisted": "The player with id {0} has been blacklisted for this permission",
+  "RemovePerm": "{0} has been removed and revoked from the server!",
+  "NextPageDenied": "There is/are only {0} page/s available",
+  "HomePermPage": "You are already at page {0}!",
+  "NextSteamPageDenied": "There are no more pages available",
+  "NoPermNameInput": "There was no name added to the input field"
+}

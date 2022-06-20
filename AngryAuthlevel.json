@@ -1,0 +1,17 @@
+{
+  "No Permission": "You do not have permission to the [#cyan]{0}[/#] command!",
+  "Added By": "Added by {0}",
+  "Added Message": "Added [#cyan]{0}[/#] as [#cyan]{1}[/#]",
+  "Removed Message": "Removed [#cyan]{0}[/#] as [#cyan]{1}[/#]",
+  "Info Message": "[#red]FINISHED[/#] - Users need to rejoin for effect",
+  "Adder Message": "Added by {0}",
+  "Auth 1": "moderator",
+  "Auth 2": "owner",
+  "Not SteamId": "{0} this is not a valid SteamId.",
+  "Given Auth Level": "[#red]You have been given Auth Level {0} automatically, reconnect for it to activate.[/#]",
+  "Console Message": "{0} has been given {1} automatically.",
+  "Console Message Removal": "{0} has been removed from {1} automatically.",
+  "Log Added": "Added {0} to {1}",
+  "Log Removed": "Removed {0} from {1}",
+  "Activation Warning": "No adding option chosen, users will not be given authlevel automatically. \nEither change settings or use command. (can disable this message in config)"
+}

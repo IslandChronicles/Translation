@@ -1,0 +1,16 @@
+{
+  "UI_Statement_Disabled": "Disabled",
+  "UI_Statement_Off": "Micro disabled",
+  "UI_Statement_On": "Micro enabled",
+  "UI_Statement_NoFrequency": "No frequency",
+  "UI_Frequency_Define": "Define frequency",
+  "UI_Frequency_Cancel": "CANCEL",
+  "UI_Frequency_Validation": "Define",
+  "Error_NoFrequency": "First you have to enter a radio frequency. <color=#939393>/{0}</color>",
+  "Error_Syntax": "The frequency must be an integer between 1 and 9999.",
+  "Error_NoItem": "You must have a radio in your inventory",
+  "Msg_Syntax": "<color=#939393>/{0} frequency</color> (or <color=#939393>f</color>) : choose frequency<br><color=#939393>/{0} off</color> : disabled radio",
+  "Msg_Enabled": "The radio has been activated",
+  "Msg_Disabled": "The radio has been deactivated",
+  "Msg_ActiveItem": "When you hold the radio in your hands, it will automatically reactivate."
+}

@@ -1,0 +1,11 @@
+{
+  "Score.FlagCaptures": "Flag Captures: {0}",
+  "Score.Kills": "Kills: {0}",
+  "Score.Name": "Kills",
+  "Score.Limit": "Score Limit : {0}",
+  "Score.Team": "{0} : <color={1}>Team A</color> | <color={2}>Team B</color> : {3}",
+  "Notification.FlagPickedUp": "<color={2}>{0}</color> has picked up <color={3}>Team {1}</color>'s flag",
+  "Notification.FlagReset": "<color={1}>Team {0}</color>'s flag has been returned to base",
+  "Notification.FlagCaptured": "<color={2}>{0}</color> has captured <color={3}>Team {1}</color>'s flag",
+  "Notification.FlagDropped": "<color={2}>{0}</color> has dropped <color={3}>Team {1}</color>'s flag"
+}

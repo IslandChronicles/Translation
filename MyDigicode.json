@@ -1,0 +1,11 @@
+{
+  "NoPermMsg": "Do not have permission for this",
+  "DigicodeMsg": "Your digicode is <color=orange>{0}</color>\ncode applied on {1} locks\nauto lock is <color=green>{2}</color>",
+  "AutoModeMsg": "Auto lock mode for new codelock\nis now : <color=green>{0}</color>",
+  "LockMsg": "Locking [{0}] codelock(s)",
+  "UnlockMsg": "Unlocking [{0}] codelock(s)",
+  "NoDataMsg": "No digicode data",
+  "KilledMsg": "One of your codelock has disappeared",
+  "ChangedMsg": "Your digicode has changed to : <color=orange>{0}</color>",
+  "NewSpawnMsg": "Digicode <color=orange>{0}</color> applied to new CodeLock."
+}

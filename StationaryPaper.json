@@ -1,0 +1,17 @@
+{
+  "NoteCrafted": "You succesfully crafted a <color=orange>{0}</color>",
+  "Info": "\n<color=green>Available Commands</color> :\n<color=orange>/note info</color> : Shows info on version/author and commands",
+  "InfoAdmin": "<color=orange>/note admin</color> : Crafts a Admin Note",
+  "InfoPolice": "<color=orange>/note police</color> : Crafts a Police Note",
+  "InfoOrdnungsamt": "<color=orange>/note ordnungsamt</color> : Crafts a Regulatory Office Note",
+  "InfoAnwalt": "<color=orange>/note anwalt</color> : Crafts a Lawyer Letter",
+  "InfoRichter": "<color=orange>/note richter</color> : Crafts a Judge Letter",
+  "InfoMedic": "<color=orange>/note medic</color> : Crafts a Medic Letter",
+  "InfoSchiessstand": "<color=orange>/note shootingrange</color> : Crafts a Shooting Range Letter",
+  "InfoRechnung": "<color=orange>/note rechnung</color> : Crafts a Invoice Letter",
+  "InfoCrime": "<color=orange>/note crime</color> : Crafts a Crime letter",
+  "InvalidInput": "Please enter a valid command!",
+  "InventoryFull": "You need at least 1 more slot in your inventory,canceling the craft",
+  "Version": "Version : V",
+  "NoPermission": "You do not have permission to use that command!"
+}

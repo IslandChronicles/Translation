@@ -1,0 +1,14 @@
+{
+  "Score.Kills": "Kills: {0}",
+  "Score.Deaths": "Deaths: {0}",
+  "Score.Name": "Kills",
+  "Score.Limit": "Score Limit : {0}",
+  "Score.RoundNumber": "Round {0} / {1}",
+  "Timer.Slasher": "Slasher Time",
+  "Timer.Hunted": "Hunted Time",
+  "Notification.RoundStartsIn": "The next round starts in <color=#007acc>{0}</color> seconds",
+  "Notification.RoundStarted": "<color=#007acc>{0}</color> is the slasher. Hide from them!",
+  "Notification.HuntersTurn": "The hunted have become the hunters!",
+  "Notification.HuntedWin": "The hunted have won this round!",
+  "Notification.SlasherWin": "The slasher has won this round!"
+}

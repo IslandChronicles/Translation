@@ -1,0 +1,15 @@
+{
+  "Command: No Permission": "You do not have enough permissions for that (enhancedhammer.use)",
+  "Command: Player Only": "You must be an in-game player to use this command",
+  "Command: Invalid Grade": "You have entered an invalid grade",
+  "Command: Timeout": "Current timeout: {timeout}",
+  "Command: Auto Grade: Enabled": "You have enabled automatic toggle for grading",
+  "Command: Auto Grade: Disabled": "You have disabled automatic toggle for grading",
+  "Command: Auto Grade: Force Disabled": "Auto Grade is disabled on this server",
+  "Command: Syntax": "Grade command syntax:\n(grade) - Set current grade to a specific value\ntimeout (Time in seconds) - Disable grading in X seconds\nautograde (True/False) - Toggle automatic grading toggle",
+  "Grade: Changed": "Current grade: {grade}",
+  "Grade: No Downgrade": "Downgrading is not allowed on this server",
+  "Grade: Building Blocked": "You cannot build there",
+  "Grade: Insufficient Resources": "You cannot afford this upgrade",
+  "Grade: Recently Damaged": "This entity was recently damaged"
+}
