@@ -1,0 +1,19 @@
+{
+  "WrongProfessionCraft": "Your profession cant craft this item",
+  "WrongProfessionResearch": "Your profession cant research this item",
+  "OnlyOilextractorUse": "Only the Oilextractor can use the refinery",
+  "OnlyMinerUse": "Only the Miner can use the big furnace",
+  "OnlyOilextractoPlace": "Only the Oilextractor can place the refinery",
+  "OnlyMinerPlace": "Only the Miner can place the big furnace",
+  "Command": "Command: /diesel (ammount)",
+  "Received": "You received ",
+  "LowGradeFuel": " low grade fuel",
+  "NotEnought": "Not enough diesel fuel",
+  "Argument": "Only one argument",
+  "NoAuthorization": "No authorization for this command",
+  "WrongProfessionRepair": "Your profession cant repair this item",
+  "OnlyVehicleengineerRepair": "Only the Vehicleengineer can repair",
+  "OnlyFurnitureShop": "Only the furniture store can repair this item",
+  "Ranch": "Only the ranch can repair this item",
+  "Vorbidden": "The item is forbidden and cannot be crafted"
+}
