@@ -13,5 +13,6 @@
   "InvalidInput": "Please enter a valid command!",
   "InventoryFull": "You need at least 1 more slot in your inventory,canceling the craft",
   "Version": "Version : V",
-  "NoPermission": "You do not have permission to use that command!"
+  "NoPermission": "You do not have permission to use that command!",
+  "InfoMechanic": "<color=orange>/note mechanic</color> : Crafts a Mechanic letter"
 }
