@@ -7,13 +7,14 @@
   "OnlyMinerPlace": "Nur der Minenarbeiter kann den großen Ofen platzieren",
   "Command": "Befehl: /diesel (Anzahl)",
   "Received": "Du hast ",
-  "LowGradeFuel": "Einfacher Kraftstoff erhalten",
+  "LowGradeFuel": " Einfacher Kraftstoff erhalten",
   "NotEnought": "Nicht genug Diesel Fuel vorhanden",
   "Argument": "Bitte nur ein Argument angeben",
   "NoAuthorization": "Keine Berechtigung für diesen Befehl",
   "WrongProfessionRepair": "Falscher Beruf um diesen Gegenstand zu Reparieren",
   "OnlyVehicleengineerRepair": "Nur der Fahrzeugingenieur kann reparieren",
   "OnlyFurnitureShop": "Nur das Möbelgeschäft kann diesen Gegenstand reparieren",
+  "Vorbidden": "Das Item ist Verboten und kann nicht gecraftet werden",
   "Ranch": "Nur die Ranch kann diesen Gegenstand reparieren",
-  "Vorbidden": "Das Item ist Verboten und kann nicht gecraftet werden"
+  "OnlyTea": "Das Item kann nur mit dem richtigen Beruf gemischt werden"
 }
