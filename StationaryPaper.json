@@ -14,5 +14,6 @@
   "InventoryFull": "Du benötigst mindestens 1 weiteren Platz in deinen Taschen, herstellen wurde abgebrochen",
   "Version": "Version : V",
   "NoPermission": "Sie haben keine Berechtigung, diesen Befehl zu verwenden!",
-  "InfoMechanic": "<color=orange>/note mechanic</color> :  Stellt eine Mechaniker Notiz her"
+  "InfoMechanic": "<color=orange>/note mechanic</color> : Stellt eine Mechaniker Notiz her",
+  "InfoMayor": "<color=orange>/note mayor</color> : Crafts a Mayor letter"
 }
