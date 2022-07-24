@@ -1,0 +1,14 @@
+{
+  "title": "<b>VOTE</b><color=#C2C2C2>MAYOR</color>",
+  "closeBtn": "✘ EXIT",
+  "voteBtn": "    WÄHLEN",
+  "viewBtn": "    ANZEIGEN",
+  "mayorWipe": "WAHL ENDET IN ",
+  "voteLeft": "",
+  "voteCount": "VOTES: ",
+  "back": "ZURÜCK",
+  "next": "WEITER",
+  "NotInZone": "Du bist nicht in der Wahlkabine",
+  "NoVoteToday": "Heute ist keine Wahl",
+  "AlreadyVotedText": "BEREITS\nABGESTIMMT"
+}
