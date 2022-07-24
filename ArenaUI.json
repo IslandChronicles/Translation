@@ -80,5 +80,6 @@
   "UI.Score.Team": "{0} : {1}",
   "UI.Spectating": "Spectating : {0}",
   "UI.Enabled": "Enabled",
-  "Error.Blacklisted": "You are blacklisted from joining events"
+  "Error.Blacklisted": "You are blacklisted from joining events",
+  "Error.NotInZone": "Du bist nicht in der PVP Arena Lobby Zone"
 }
