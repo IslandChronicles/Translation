@@ -88,5 +88,7 @@
   "Heal 50 Button Text": "Heal 50",
   "Heal 75 Button Text": "Heal 75",
   "Heal 100 Button Text": "Heal 100",
-  "Heal Wounds Button Text": "Heal Wounds"
+  "Heal Wounds Button Text": "Heal Wounds",
+  "Wallets Button Text": "View Wallet",
+  "Wallets Not Installed Button Text": "Wallets Not Installed"
 }
