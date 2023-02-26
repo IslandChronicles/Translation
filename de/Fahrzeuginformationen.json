@@ -1,0 +1,8 @@
+{
+  "FahrzeugabfrageOwner": "Fahrgestellnummer: {0}\nFahrzeugtyp: {1}\nBesitzer: {2}",
+  "Fahrzeugabfrage": "Fahrgestellnummer: {0}\nFahrzeugtyp: {1}",
+  "NoPlayer": "No player found.",
+  "MultiTarget": "Too many arguments",
+  "Change": "Changed owner of {0} from {1} to {2}",
+  "Speedtest": "Fahrgestellnummer: {0}\nFahrzeugtyp: {1}\nGeschwindigkeit: {2}"
+}

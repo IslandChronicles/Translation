@@ -1,0 +1,17 @@
+{
+  "No Permission": "Sie haben keine Berechtigung für den Befehl [#cyan]{0}[/#]!",
+  "Added By": "Hinzugefügt von {0}",
+  "Added Message": "Hinzugefügt [#cyan]{0}[/#] als [#cyan]{1}[/#]",
+  "Removed Message": "Entfernt [#cyan]{0}[/#] als [#cyan]{1}[/#]",
+  "Info Message": "[#red]FINISHED[/#] - Benutzer müssen für einen Effekt rejoinen",
+  "Adder Message": "Hinzugefügt von {0}",
+  "Auth 1": "moderator",
+  "Auth 2": "Besitzer",
+  "Not SteamId": "{0} dies ist keine gültige SteamId.",
+  "Given Auth Level": "[#red]Sie haben automatisch Auth Level {0} erhalten, verbinden Sie sich erneut, um es zu aktivieren.[/#]",
+  "Console Message": "{0} wurde {1} automatisch zugewiesen.",
+  "Console Message Removal": "{0} wurde automatisch von {1} entfernt.",
+  "Log Added": "{0} zu {1} hinzugefügt",
+  "Log Removed": "{0} von {1} entfernt",
+  "Activation Warning": "Wenn keine Hinzufügungsoption gewählt wurde, wird den Benutzern nicht automatisch eine Berechtigungsstufe zugewiesen. \nEntweder Einstellungen ändern oder Befehl verwenden. (diese Meldung ist in der Konfiguration deaktivierbar)"
+}

@@ -1,0 +1,7 @@
+{
+  "FloodingStart": "Flooding map",
+  "FloodingStop": "Flooding stopped",
+  "FloodingStopped": "Flooding already stopped",
+  "ResetOceanLevel": "Reset ocean level to 0",
+  "SyntaxError": "Incorrect syntax, use /flood <level> <rate>"
+}

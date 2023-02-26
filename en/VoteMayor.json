@@ -1,0 +1,16 @@
+{
+  "title": "<b>VOTE</b><color=#C2C2C2>MAYOR</color>",
+  "closeBtn": "✘ CLOSE",
+  "voteBtn": "    VOTE",
+  "viewBtn": "    VIEW",
+  "voteLeft": "",
+  "voteCount": "VOTES: ",
+  "back": "BACK",
+  "next": "NEXT",
+  "NotInZone": "You're not in the voting booth",
+  "NoVoteToday": "There are no Votes today",
+  "AlreadyVotedText": "ALREADY\nVOTED",
+  "mayorWipe": "VOTE END IN ",
+  "votes_End": "VOTING IS OVER",
+  "VoteEnd": "VOTING\nIS OVER"
+}

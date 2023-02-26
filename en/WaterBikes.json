@@ -1,0 +1,16 @@
+{
+  "NoPermission": "You don't have permission to run this command",
+  "Spawned": "Spawned waterbike",
+  "NoWaterbike": "You aren't on a waterbike",
+  "Showing": "Showing buoyancy points...",
+  "NotEnough": "You don't have enough to buy a waterbike",
+  "Converted": "Snowmobile converted into waterbike",
+  "Cooldown": "You are on cooldown!",
+  "onlyBeach": "You can spawn water bikes only on beaches",
+  "onlyOne": "You can have only 1 water bike",
+  "removed": "Waterbike is removed",
+  "waterbikeDoesntExist": "You don't have a water bike",
+  "lookat": "Look at a water bike",
+  "boostToast": "You can press LSHIFT to boost",
+  "waterbikeGiven": "Water bike has been given to you"
+}

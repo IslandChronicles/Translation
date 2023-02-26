@@ -1,0 +1,20 @@
+{
+  "lowmana": "Thy Mana is low wizard, you need : ",
+  "nomaterials": "To cast that spell you need ",
+  "activatedlightningspell": "Lightning Spell Activated - Mana Cost is : ",
+  "activatedfirespell": "Fire Spell Activated - Mana Cost is : ",
+  "activatedwaterspell": "Water Spell Activated - Mana Cost is : ",
+  "activatedmisslespell": "Missle Spell Activated - Mana Cost is : ",
+  "activatedarcanemisslespell": "Arcane Missle Spell Activated - Mana Cost is : ",
+  "activatedhealself": "Heal Self Activated - Mana Cost is : ",
+  "activatedrejuvself": "Rejuvenate Self Activated - Mana Cost is : ",
+  "activatedhealaoe": "Heal AOE Activated - Mana Cost is : ",
+  "activatedrejuvaoe": "Rejuvenate AOE Activated - Mana Cost is : ",
+  "activatednpcsleep": "NPC Sleep Activated - Mana Cost is : ",
+  "activatedsmoke": "Smoke Screen Activated - Mana Cost is : ",
+  "activatedvanish": "Vanish Activated - Mana Cost is : ",
+  "activateddamagebuff": "Damage Buff Activated - Mana Cost is : ",
+  "activateddamageimmunity": "Damage Immunity Activated - Mana Cost is : ",
+  "correctitem": "Ye must be holding the correct item to make a wand !! ",
+  "notallowed": "You are not authorized to use that command !!"
+}

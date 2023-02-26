@@ -1,0 +1,15 @@
+{
+  "inUse": "This npc name is in use already!",
+  "dataisThere": "This npc name is in use already in vehicles datafolder!",
+  "ConvoExists": "This conversation file exists already",
+  "UnknownType": "The vehicle type is unknown",
+  "SomthingWrong": "Somthing went wrong you must manualy delete the created datafiles",
+  "finished": "You have finished creating the npc and spawn points",
+  "goto": "Go to",
+  "spawnLocation": "vehicel spawn location and press the reload key!",
+  "usages": "Vehicle Usage:\n\n <color=#FFFF00>/talking_npc vehicle <type> <Uneek_VendorName> <true/false></color> - Adds vehice npc to location.",
+  "invalidAddon": "Tried to spawn invalid addon file {0}",
+  "invalidAddonConfig": "Tried to spawn invalid profile in addon file",
+  "NoMonment": "Couldn't find closest monument",
+  "vendorexists": "This vendor name {0} exists already"
+}

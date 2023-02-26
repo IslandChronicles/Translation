@@ -1,0 +1,15 @@
+{
+  "notauthorized": "You are not authorized to use this command!",
+  "foundCamera": "Found Camera {0} owned by {1}",
+  "foundDrone": "Found Drone {0} owned by {1}",
+  "foundCameras": "Found Cameras:",
+  "foundDrones": "Found Drones:",
+  "cameraexists": "Camera {0} already in station",
+  "ownedby": " owned by ",
+  "server": "Server",
+  "unknown": "Unknown",
+  "foundStation": "Found ComputerStation...",
+  "noStation": "No ComputerStation found...",
+  "helptext1": "CCTV Control Instructions:",
+  "helptext2": "  type /cctv to add your local cameras"
+}

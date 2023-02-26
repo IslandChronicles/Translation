@@ -1,0 +1,6 @@
+{
+  "VerkaufsAutomatInfo": "Verkaufsautomat: {0}\nBesitzer: {2}",
+  "NoPlayer": "No player found.",
+  "MultiTarget": "Too many arguments",
+  "Change": "Changed owner of {0} from {1} to {2}"
+}

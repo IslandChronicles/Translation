@@ -1,0 +1,9 @@
+{
+  "Testing": "Test starts, please blow until I say stop",
+  "TestingFinishSuccessful": "The test was successful",
+  "TestingFinishFailed": "The test failed",
+  "Drunked": "{0} has {1} per mil alcohol",
+  "InvalidInput": "Please enter a valid command!",
+  "Version": "Version : V{0}",
+  "NoPermission": "You do not have permission to use that command!"
+}

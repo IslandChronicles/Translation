@@ -1,0 +1,15 @@
+{
+  "noPermission": "You don't have the appropriate permission to use this.",
+  "notLookingAtValid": "You weren't looking at a sign or photoframe.",
+  "uploadError": "An error occured uploading the image",
+  "error": "Error. ",
+  "uploading": "Uploading...",
+  "rpWithdrawl": "RP deducted",
+  "noTitle": "Untitled",
+  "fileAccessedAt": "The file may be accessed at",
+  "success": "Successful Upload.",
+  "currencyError": "You don't have enough",
+  "currency": "RP",
+  "cooldownError": "You're trying to use this command again too soon.",
+  "discordMessage": "NEW IMAGE UPLOADED BY"
+}

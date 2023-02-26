@@ -1,9 +1,0 @@
-{
-  "Score.Kills": "Kills: {0}",
-  "Score.Name": "Kills",
-  "Score.Remaining": "Players Remaining : {0}",
-  "Death.Killed": "You were killed by {0}\nYou placed {1}\n{2} players remain",
-  "Death.Suicide": "You died...\nYou placed {0}\n{1} players remain",
-  "Death.OOB": "You left the playable area\nYou placed {0}\n{1} players remain",
-  "Round.Limit": "Round : {0} / {1}"
-}

@@ -1,0 +1,4 @@
+{
+  "GlobalChatFormat": "[{time}] {username}: {message}",
+  "TeamChatFormat": "[TEAM] [{time}] {username}: {message}"
+}

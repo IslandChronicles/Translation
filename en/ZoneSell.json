@@ -1,0 +1,10 @@
+{
+  "MSG_ERRORCMD": "Incorrect use of the command. Use it like this: /sellzone Player Name Zone Name price",
+  "MSG_SHOWZONE": "List of purchased zones:\n {0}",
+  "MSG_PLAYERNOTFOUND": "Player not found",
+  "MSG_SENDSELLS": "Player not found",
+  "MSG_ZONENOTFOUND": "You can't sell this zone",
+  "MSG_ACCESBUY": "You have successfully purchased the zone",
+  "MSG_ACCESSELL": "You have successfully sold the zone",
+  "MSG_COSTNOTFOUND": "Unknown amount"
+}

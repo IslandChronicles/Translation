@@ -1,0 +1,8 @@
+{
+  "VanishCommand": "vanish",
+  "Vanished": "Vanish: <color=orange> Aktiviert </color>",
+  "Reappear": "Vanish: <color=orange> Deaktiviert </color>",
+  "NoPerms": "Du hast keine Berechtigung dazu",
+  "PermanentVanish": "Du befindest dich in einem permanenten Vanish mode",
+  "ArgFail": "Falsches Argument verwendet"
+}

@@ -1,0 +1,15 @@
+{
+  "Deployed": "<color=red>Deployed Parachute</color>",
+  "HoverD": "<color=red>Hover Disabled!</color>",
+  "HoverE": "<color=green>Hover Enabled!</color>",
+  "Mounted": "<color=red>You can't deploy when mounted.</color>",
+  "Ground": "<color=red>You can't deploy a parachute on the ground.</color>",
+  "Room": "<color=orange>Not enough room to deploy parachute!</color>",
+  "HeightFail": "Height: <color=red>{0}</color>",
+  "Cooldown": "You have <color=red>{0}</color> until your cooldown ends",
+  "Dont": "Dont Do It Buddy",
+  "Auto": "AutoChute Attached!",
+  "RAuto": "AutoChute Removed!",
+  "ToHigh": "<color=red>WARNING</color> - <color=green>Too High To Cut Parachute</color> {0}M\r\n<color=red> You can force cut parachute by holding R and pressing Space</color>",
+  "Controls": "MOVEMENT - <color=orange>W/A/S/D</color>\nGLIDE/DECEND/ACCELERATE - <color=orange>Shift/Ctrl/Reload</color>\nCUT PARACHUTE - <color=orange>Jump</color>"
+}

@@ -1,0 +1,8 @@
+{
+  "Blocked": "<color=#ce422b>You can not use this command.</color>",
+  "StartFlood": "<color=#ce422b>The flood is incoming.</color>",
+  "EndFlood": "<color=#ce422b>The flood is recedeing back into the ocean.</color>",
+  "StartStormFlood": "<color=#ce422b>A bad storm is incoming watch for rising water.</color>",
+  "EndStormFlood": "<color=#ce422b>The storm is over and the water is recedeing back into the ocean.</color>",
+  "FloodAlready": "<color=#ce422b>Wait a flood is already going on.</color>"
+}

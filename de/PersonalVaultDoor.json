@@ -1,0 +1,8 @@
+{
+  "Name": "Tresortür",
+  "Pickup": "Du hast eine Tresortür aufgehoben!",
+  "Receive": "Du hast eine Tresortür erhalten!",
+  "Repair": "Du benötigst mehr Rohstoffe:\n{0}",
+  "Wait": "Du musst warten: {0} bevor du reparieren kannst.",
+  "Permission": "Du brauchst dafür eine Berechtigung"
+}

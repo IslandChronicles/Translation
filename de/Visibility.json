@@ -1,0 +1,10 @@
+{
+  "InitNodes": "-- gathered nodes --",
+  "InitAnimals": "-- spotted animals --",
+  "InitFood": "-- visualized food --",
+  "NoPerms": "You don't have permissions to use this command",
+  "NoPermsNodes": "You don't have permissions to use this command for nodes",
+  "NoPermsAnimals": "You don't have permissions to use this command for animals",
+  "NoPermsFood": "You don't have permissions to use this command for food",
+  "Cooldown": "Sorry, you are in a cooldown period and cannot use Visibility at this moment."
+}

@@ -1,0 +1,23 @@
+{
+  "Spawned": "<size=18><color=#ffc34d>MyTransit</color></size>\nYou have spawned your <color=#9999ff>transit</color>.",
+  "BuildingBlocked": "<color=#ffc34d>MyTransit</color>: Can't spawn/recall a transit while building blocked.",
+  "Mounted": "<color=#ffc34d>MyTransit</color>: Can't spawn/recall a transit while mounted.",
+  "Help": "<size=18><color=#ffc34d>MyTransit</color></size>\n<color=#9999ff>/mtspawn</color> to spawn your transit.\n<color=#9999ff>/mtkill</color> to kill your transit.\n<color=#9999ff>/mthelp</color> to open this help menu.",
+  "HelpAdmin": "<size=18><color=#ffc34d>MyTransit</color></size>\n<color=#9999ff>/mtspawn</color> to spawn your transit.\n<color=#9999ff>/mtkill</color> to kill your transit.\n<color=#9999ff>/mthelp</color> to open this help menu.\n\n<size=13><color=#ff6666>Admin Commands</color></size>\n<color=#9999ff>/mtspeed</color> to set the speed of your transit.\n</size><color=#9999ff>/mtcheck</color> to check the speed of your transit.",
+  "Flying": "<color=#ffc34d>MyTransit</color>: Can't spawn while jumping, flying, or falling",
+  "NoArgs": "<color=#ffc34d>MyTransit</color>: Please specify a speed.",
+  "OutOfBounds": "<color=#ffc34d>MyTransit</color>: Speed out of bounds. Please specify a speed between {0} and {1}",
+  "NotMounted": "<color=#ffc34d>MyTransit</color>: You need to be seated in the train.",
+  "NotNearTrack": "<color=#ffc34d>MyTransit</color>: Please stand next to a track to spawn.",
+  "Cooldown": "<color=#ffc34d>MyTransit</color>: You are on a 5 second cooldown.",
+  "TransitKilled": "<color=#ffc34d>MyTransit</color>: Your transit has been killed.",
+  "TransitSpeed": "<color=#ffc34d>MyTransit</color>: The transit speed is <color=#b0fa66>{0}</color>.",
+  "TransitSpeedDisabled": "<color=#ffc34d>MyTransit</color>: Custom speed <color=#ff6666>disabled</color>.",
+  "TransitSpeedEnabled": "<color=#ffc34d>MyTransit</color>: Custom speed set to <color=#b0fa66>{0}</color>.",
+  "TransitNotOut": "<color=#ffc34d>MyTransit</color>: You do not have a transit out.",
+  "TransitExists": "<color=#ffc34d>MyTransit</color>: You already have a transit out. Type <color=#9999ff>/mtkill</color> to kill it. ",
+  "Wounded": "<color=#ffc34d>MyTransit</color>: You cannot spawn a transit while wounded.",
+  "NoPerm": "<color=#ffc34d>MyTransit</color>: You don't have permission to use that.",
+  "Killed": "<color=#ffc34d>MyTransit</color>: You just removed your transit.",
+  "NoArgsTransit": "<color=#ffc34d>MyTransit</color>: You must specify a type of transit!\n<color=#ffc34d>/mtspawn cart</color> workcart (without couplings)\n<color=#ffc34d>/mtspawn train</color> above ground train (with couplings)"
+}

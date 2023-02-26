@@ -1,0 +1,23 @@
+{
+  "Title": "BotReSpawn : ",
+  "customsaved": "Custom Location Saved @ {0}",
+  "ProfileMoved": "Custom Location {0} has been moved to your current position.",
+  "ParentSelected": "Parent Monument {0} set for profile {1}.",
+  "nonpc": "No BotReSpawn npc found directly in front of you.",
+  "noNavHere": "No navmesh was found at this location.\nConsider removing this point or using Stationary : true.",
+  "nospawns": "No custom spawn points were found for profile - {0}.",
+  "removednum": "Removed point {0} from {1}.",
+  "movedspawn": "Moved point {0} in {1}.",
+  "notthatmany": "Number of spawn points in {0} is less than {1}.",
+  "alreadyexists": "Custom Location already exists with the name {0}.",
+  "customremoved": "Custom Location {0} Removed.",
+  "deployed": "'{0}' bots deployed to {1}.",
+  "noprofile": "There is no profile by that name in default or custom profiles jsons.",
+  "nokits": "Kits is not installed but you have declared custom kits at {0}.",
+  "noWeapon": "A bot at {0} has no weapon. Check your kit {1} for a valid bullet or melee weapon.",
+  "numberOfBot": "There is {0} spawned bot alive.",
+  "numberOfBots": "There are {0} spawned bots alive.",
+  "dupID": "Duplicate userID save attempted. Please notify author.",
+  "NoBiomeSpawn": "Failed to find spawnpoints at {0}. Consider reducing npc numbers, or using custom profiles.",
+  "ToPlayer": "{0} npcs  have been sent to {1}"
+}

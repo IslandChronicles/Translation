@@ -1,0 +1,9 @@
+{
+  "NotAllowed": "You don't have permission to use this command.",
+  "MineralAnalysis": "- Mineral Analysis -",
+  "MineralInfo": "<color=#05EB59>{0}</color> x<color=#FFA500>{1}</color> -- <color=#FF4500> pM: {2} </color>",
+  "CanSpawnCrater": "A crater <color=#8ee700>can</color> be spawned at the position you are looking at.",
+  "CantSpawnCrater": "A crater <color=#ce422b>cannot</color> be spawned at the position you are looking at.",
+  "NotLookingAtCrater": "You must be looking at a crater.",
+  "NoMinerals": "There are no minerals in this crater"
+}

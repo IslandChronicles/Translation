@@ -1,6 +1,0 @@
-{
-  "NoPlayersFound": "Couldn't find any players matching that name.",
-  "NoPerms": "You don't have permissions to use this command",
-  "NoPlayersFoundRayCast": "No players were found",
-  "ViewingPLayer": "Viewing <color=orange>{0}'s</color> inventory"
-}

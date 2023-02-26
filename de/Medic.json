@@ -1,0 +1,22 @@
+{
+  "medic_start_shift": "You are now working as a medic",
+  "medic_end_shift": "You are no longer working as a medic",
+  "medic_info": "There are currently {0} active medics, the default wounding system is {1}",
+  "medic_revived": "{0} has been successfully revived by {1}",
+  "player_revived": "You have been revived by {0}",
+  "medic_wounded": "{0} is wounded. Without medical aid, {0} will die in {2} minutes",
+  "medic_death": "Any help came too late for {0}. {0} stand up",
+  "medic_payout": "You received {0} x{1} as a payout for your work",
+  "medic_revive_payout": "{0} x{1} has been added to your account for reviving {2}. You will receive it at the end of your shift.",
+  "medic_no_damage": "You can not hurt an active medic!",
+  "medic_no_attack": "You can not hurt other players while you working as a medic",
+  "medic_attack_cooldown": "You can not hurt other players because you recently worked as a medic. Remaining cooldown: {0} seconds.",
+  "gametip_revive": "Hold right-click with a syringe on a wounded player to revive him",
+  "non_medic_gametip_revive": "Hold right-click with a syringe on a wounded player to revive him\n<color=yellow>WARNING:</color> since you are not a Medic, the player might die if you try to revive him",
+  "non_medic_revive_failed": "You failed to revive {0}, he will die soon",
+  "non_medic_revive_failed_player": "{0} failed to revive you, you will die soon",
+  "non_medic_revive_success": "You successfully revived {0}",
+  "enabled": "enabled",
+  "disabled": "disabled",
+  "wounded": "wounded"
+}

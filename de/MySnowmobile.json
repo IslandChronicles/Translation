@@ -1,0 +1,10 @@
+{
+  "Not_Enough_Scrap": "[#e0e0e0]You don't have enough scrap to purchase a Tomaha. Cost:[/#]",
+  "Buy_succes_tomaha": "[#e0e0e0]You have successfully bought a[/#] [#ffe479]Tomaha.[/#]",
+  "notlooking_item": "[#e0e0e0]You need to look at a Snowmobile to skin![/#]",
+  "mysnowmobile_help": "\n[#eeeeee]<size=14>Available Commands:</size>[/#]\n[#ffe479]/skinsnowmobile[/#] [#e0e0e0]- Display Help[/#]\n[#ffe479]/buysnowmobile <Available Skins>[/#] [#e0e0e0]- buy a Snowmobile[/#]\n[#ffe479]/skinsnowmobile <Available Skins>[/#] [#e0e0e0]- Skin a Snowmobile[/#]\n \n[#ffd479]<size=14>Available Skins:</size>[/#]\n[#ffe479]\"tomaha\"[/#] [#e0e0e0]- Tomaha Snowmobile[/#]\n \n[#73c2fa]<size=14>Example:</size>[/#]\n[#ffe479]/skinsnowmobile tomaha[/#] [#e0e0e0]- This will skin to a Tomaha[/#]",
+  "Skin_succes_tomaha": "[#e0e0e0]You have successfully skinned to a[/#] [#ffe479]Tomaha.[/#]",
+  "already_tomaha": "[#e0e0e0]This Snowmobile is already skinned to a[/#] [#ffe479]Tomaha![/#]",
+  "snowmobile_damage": "[#e0e0e0]This Snowmobile is damaged! Repair it to skin[/#]",
+  "NoPermMsg": "[#e0e0e0]You are not allowed to use this command[/#]"
+}

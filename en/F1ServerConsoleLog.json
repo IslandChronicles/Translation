@@ -1,0 +1,6 @@
+{
+  "OnOROff": "Please input Console State (on or off)",
+  "ToManyArgs": "To much Info Added , Please use /console on   or    /console off",
+  "ConsoleOn": "Console turned on!",
+  "ConsoleOff": "Console turned off!"
+}

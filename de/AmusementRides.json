@@ -1,0 +1,18 @@
+{
+  "LandingMessageSurvived5": "{0} came out virtually unscathed!",
+  "LandingMessageSurvived10": "{0} ended up with a few bruises.",
+  "LandingMessageSurvived25": "{0} suffered some minor injuries.",
+  "LandingMessageSurvived50": "{0} suffered severe injuries.",
+  "LandingMessageSurvived90": "{0} suffered fatal injuries.",
+  "LandingMessageSurvived100": "{0} nearly died from the injuries.",
+  "LandingMessageSurvivedMax": "{0} survived a literally IMPOSSIBLE amount of damage.",
+  "LandingMessageDied5": "{0} died from stupidity!",
+  "LandingMessageDied10": "{0} died from a boobo or and/or an ouchie.",
+  "LandingMessageDied25": "{0} died from some minor injuries.",
+  "LandingMessageDied50": "{0} died from severe injuries.",
+  "LandingMessageDied90": "{0} died from predictably fatal injuries.",
+  "LandingMessageDied100": "{0} died from practically unsurvivable injuries.",
+  "LandingMessageDied150": "{0} died from humorously over-the-top injuries.",
+  "LandingMessageDied250": "{0} died from absolutetly hilarious injuries.",
+  "LandingMessageDiedMax": "{0} died from shockingly grotesque injuries."
+}

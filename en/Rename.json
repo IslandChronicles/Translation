@@ -1,0 +1,18 @@
+{
+  "CommandUsageRename": "Usage: {0} <name or id> [new name] (new name only if renaming self)",
+  "CommandUsageReset": "Usage: {0} [name or id] (optional if resetting self)",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "PlayerIsAdmin": "{0} is admin and cannot be renamed",
+  "PlayerNameReset": "{0}'s name reset to {1}",
+  "PlayerNotFound": "{0} was not found",
+  "PlayerNotRenamed": "{0} is not renamed",
+  "PlayerRenamed": "{0} was renamed to {1}",
+  "YouWereRenamed": "You were renamed to {0}",
+  "YourNameReset": "Your name was reset to {0}",
+  "CommandRename": "rename",
+  "CommandResetName": "resetname",
+  "PlayerAlreadyNamed": "{0} is already named {1}",
+  "YouAreNotRenamed": "You are not renamed",
+  "YourNameIsAlready": "Your name is already {0}",
+  "CommandAdminRename": "adminrename"
+}

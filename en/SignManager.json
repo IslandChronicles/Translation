@@ -1,0 +1,10 @@
+{
+  "Title": "SignManager : ",
+  "MoveCloser": "Move closer to a sign or frame.",
+  "MoveCloserOrSpecify": "Move closer to a sign or frame, or specify a SteamID.",
+  "Blank": "This sign or frame is blank.",
+  "NoHistory": "This sign has no image history.",
+  "NoPlayerHistory": "This player has no image history.",
+  "NotOwner": "You need to own this sign, or have building priv.",
+  "AutoSaved": "Your image has been autosaved. Use /sm to view or manage."
+}
