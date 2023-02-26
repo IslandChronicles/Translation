@@ -1,7 +1,0 @@
-{
-  "backupfinish": "Backup process finished.",
-  "backupannounce": "Starting server backup in {0} seconds.",
-  "backuprunning": "Running server backup.",
-  "backupautomatic": "Running automated server backup every {0} seconds.",
-  "backupdelay": "Backup delayed ({0} of {1}) for next '{2}' seconds."
-}

@@ -1,7 +1,0 @@
-{
-  "messageChannelCreated": "A private voice channel was created on Discord for your team !",
-  "messageChannelDeleted": "Your private voice channel on Discord has been deleted !",
-  "messageMemberJoin": "You have been added to your team's private voice channel on Discord !",
-  "messageMemberLeft": "You have been removed from your team's private voice channel on Discord !",
-  "channelName": "{0}'s Team"
-}

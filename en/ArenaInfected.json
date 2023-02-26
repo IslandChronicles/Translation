@@ -1,8 +1,0 @@
-{
-  "Score.Kills": "Kills: {0}",
-  "Score.Deaths": "Deaths: {0}",
-  "Score.Name": "Kills",
-  "Score.Counts": "Players : {0} | Infected : {1}",
-  "Round.Limit": "Round : {0} / {1}",
-  "Notification.Infected": "You are infected!"
-}

@@ -1,6 +1,0 @@
-{
-  "FlyDisabled": "You switched NoClip off!",
-  "FlyEnabled": "You switched NoClip on!",
-  "FlyConfirm": "Do not move! Confirm action by typing again in chat /noclip.",
-  "NoPermission": "You have not enough permissions to execute this command!"
-}

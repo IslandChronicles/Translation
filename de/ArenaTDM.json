@@ -1,8 +1,0 @@
-{
-  "Score.Kills": "Kills: {0}",
-  "Score.Deaths": "Deaths: {0}",
-  "Score.Name": "Kills",
-  "Score.Limit": "Score Limit : {0}",
-  "Score.Team": "{0} : <color={1}>Team A</color> | <color={2}>Team B</color> : {3}",
-  "Round.Limit": "Round : {0} / {1}"
-}
