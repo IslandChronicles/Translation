@@ -47,5 +47,6 @@
   "CopyPasteSuccess": "\"{0}\" wurde unter dem Namen \"{1}\" kopiert",
   "PurchaseLimit": "Sie haben das Kauflimit erreicht",
   "LeasedPricing": "Mietpreis",
-  "BuyingPricing": "Kaufpreis"
+  "BuyingPricing": "Kaufpreis",
+  "AddNew": "Hinzufügen"
 }
