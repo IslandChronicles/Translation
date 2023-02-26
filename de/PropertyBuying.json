@@ -31,7 +31,7 @@
   "NoteTitleTenant": "Neuer Mieter '{0}'",
   "NoteTextTenant": "Sie wurden von {1} als neuer Mitbewohner eingeladen zu \"{0}\" \n\n(zum Annehmen links klicken)\n(zum Ablehnen rechts klicken)",
   "NoteTitlePayer": "Neuer Zahlungspflichtiger'{0}'",
-  "NoteTextTenant": "Sie wurden von {1} als neuer Zahlungspflichtiger eingeladen für \"{0}\" \n\n(zum Annehmen links klicken)\n(zum Ablehnen rechts klicken)",
+  "NoteTextPayer": "Sie wurden von {1} als neuer Zahlungspflichtiger eingeladen für \"{0}\" \n\n(zum Annehmen links klicken)\n(zum Ablehnen rechts klicken)",
   "InviteDecline": "Einladung abgelehnt",
   "InviteAccept": "Einladung akzeptiert",
   "InviteExpired": "Einladung ausgelaufen",
